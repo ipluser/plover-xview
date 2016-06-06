@@ -1,6 +1,6 @@
 {
   "name": "plover-xview",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "lib/index",
   "scripts": {
     "lint": "eslint lib test",
